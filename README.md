@@ -17,7 +17,7 @@ This project is a frontend clone of the Myntra website, built using **HTML, CSS,
 - **JavaScript** - Interactivity
 
 ## 📷 Screenshots
-![Myntra Clone Screenshot](add-your-image-url-here)
+![Myntra Clone Screenshot](https://github.com/Dhirendra22vish/myntra-clone-/blob/70e12ab39d2a5ad00b24bcf8806cdb74768a8d02/Screenshot%202025-02-23%20224919.png)
 
 
 ## 🤝 Contributing
